@@ -1,3 +1,26 @@
+## jacro (humble) - 0.2.0-2
+
+The packages in the `jacro` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r humble jacro --override-release-repository-push-url git@github.com:revyos-ros/jacro-release.git` on `Thu, 12 Dec 2024 08:24:41 -0000`
+
+The `jacro` package was released.
+
+Version of package(s) in repository `jacro`:
+
+- upstream repository: https://github.com/JafarAbdi/jacro.git
+- release repository: https://github.com/revyos-ros/jacro-release.git
+- rosdistro version: `0.2.0-1`
+- old version: `0.2.0-1`
+- new version: `0.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## jacro (rolling) - 0.2.0-1
 
 The packages in the `jacro` repository were released into the `rolling` distro by running `/usr/bin/bloom-release jacro -t rolling -r rolling` on `Wed, 13 Nov 2024 20:13:03 -0000`
